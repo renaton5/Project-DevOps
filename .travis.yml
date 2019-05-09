@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $ChaveHeroku
-  app: ChaveHeroku
+  app: devopsrenatoapp
